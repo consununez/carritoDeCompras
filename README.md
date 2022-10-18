@@ -16,6 +16,6 @@
 
 ### Pasos para correr el proyecto
 
-1. Clonar el repositorio.
+1. Clonar el repositorio con `git clone https://github.com/consununez/carritoDeCompras.git`.
 2. Ejecutar `npm install` para instalar las dependencias.
 3. Iniciar el proyecto con `npm start`.
